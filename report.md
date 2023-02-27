@@ -3,7 +3,7 @@
 *February 26, 2023*
 
 ## Data Viz Summary
-![](https://github.com/ussers/stlp/desktop/INFO-201/a0-basic-tools-sadeemal/Daily-kidnappings-in-Nigeria/Daily-kidnappings-in Nigeria.png)
+![](https://github.com/ussers/stlp/desktop/INFO-201/a0-basic-tools-sadeemal/Daily-kidnappings-in-Nigeria/Daily-kidnappings-in-Nigeria.png)
 
 This figure shows a line chart created by FiveThirtyEight that displays counts of "daily kidnappings" in Nigeria over the course of several years. The chart presents the data as if it were a reliable measure of the number of kidnappings happening each day. However, as the authors of Data Feminism point out, the data is not reliable, as it is based on media reports rather than actual events. This means that the chart is not an accurate representation of reality and is, therefore, misleading.
 

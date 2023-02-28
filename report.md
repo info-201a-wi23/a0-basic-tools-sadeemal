@@ -3,7 +3,8 @@
 *February 26, 2023*
 
 ## Data Viz Summary
-![Daily kidnappings in Nigeria](Daily-kidnappings-in-Nigeria/Daily-kidnappings-in-Nigeria.png) 
+![Daily kidnappings in Nigeria](Daily-kidnappings-in-Nigeria/Daily-kidnappings-in-Nigeria.png) <img src="my-image.png" alt="Alt text" width="500"/>
+
 
 
 

@@ -1,4 +1,4 @@
-# "Daily kidnappings" in Nigeria
+# "Daily kidnappings in Nigeria"
 ## By Sadeem Alselmi
 *February 26, 2023*
 
